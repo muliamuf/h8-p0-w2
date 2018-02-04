@@ -1,0 +1,23 @@
+1. Hukum Newton
+store m with value = 600
+store a with value = 2
+calculate m times a 
+store calculation result in ℨF
+display ℨF
+2. Tahun Kabisat
+store ‘tahun’ without any value
+if ‘tahun’ modulus 4 equal 0 and ’tahun’ modulus 100 not equal 0
+if ‘tahun’ modulus 4 equal 0 and ‘tahun’ modulus 100 equal 0 and ‘tahun’ modulus 400 equal 0
+then display value ‘tahun kabisat’
+else display value ‘bukan tahun kabisat’
+3. Laundry day
+store ‘baju’ with value equal 0
+while ‘baju’ less than 20
+display “masukin ‘baju’” + “ke- “ +(‘bau’+1)
+baju +1 every ‘masukin ‘baju’’ executed
+4. periksa kuku
+store ‘siswa’ with value equal 0
+store ‘kuku’ with 
+while ‘siswa’ less than 40 
+if ‘siswa’ “kuku panjang” then “dihukum”
+else “mendapat pujian”
